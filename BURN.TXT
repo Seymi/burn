@@ -1,0 +1,710 @@
+                                  BURNTIME
+                           (c) MAX Design Austria
+
+                               Spielanleitung
+
+Bedienung
+
+Die Bedienung von Burntime ist so einfach wie nur fr ein Strategiespiel
+m”glich gehalten. Diese Einfachheit der Bedienung hat aber keinen negativen
+Einfluá auf die Komplexit„t des Spiels. Es wurde gr”áter Wert darauf gelegt,
+dem Spieler soviel Handlungs- und Entscheidungsfreiheit wie nur m”glich zu
+lassen.
+
+Nach wenigen Spielminuten werden Sie Burntime spielend bedienen, und nicht
+gegen Bedienungsprobleme, sondern nur mehr gegen Ihre Gegner k„mpfen. Auch
+Anf„nger sollten sich nach kurzer Eingew”hnungszeit voll auf das Spiel
+konzentrieren k”nnen.
+
+In diesem Kapitel werden Sie umfassend ber alle Bedienungselemente
+informiert. Sie erfahren, wie Sie Burntime bedienen und steuern, und was Sie
+alles mit der Maus anstellen k”nnen.
+
+Im n„chsten Kapitel erhalten Sie eine kleine Einfhrung in die Taktik des
+Spiels. Selbstverst„ndlich mssen Sie die letzten Feinheiten selbst
+herausfinden, aber fr einen erfolgreichen Einstieg drfte gesorgt sein.
+
+Nach der Lektre beider Kapitel k”nnen Sie sich voll Elan in die Materie
+strzen. Als Sieger gehen Sie hervor,
+wenn Sie alle Gegner aus dem Rennen werfen.
+
+Spielstart
+
+Bitte legen Sie die CD in Ihr CD-ROM Laufwerk ein. Wechseln Sie mit z.B.:
+"D:<ENTER>" auf Ihr CD-ROM Laufwerk und starten Sie das Programm mit
+"BURN<ENTER>". Jetzt werden Sie aufgefordert, die Festplatte zur Speicherung
+der Spielst„nde auszuw„hlen z.B.: "C" fr die Festplatte C.
+
+Sollte das Programm nicht einwandfrei funktionieren, kann es notwendig sein,
+folgende Punkte zu prfen:
+
+Um ein einwandfreies Funktionieren des Programms zu gew„hrleisten, mssen
+mindestens 512 kb EMS-Speicher sowie 510 kB freier Systemspeicher vorhanden
+sein. N”tigenfalls muá der EMS-Treiber in der CONFIG.SYS wie folgt
+eingestellt werden:
+DEVICE=C:\DOS\EMM386.EXE 512 RAM FRAME=D000 D=64
+
+Sollten Sie eine SOUNDBLASTER-kompatible Soundkarte besitzen, muá
+sichergestellt sein, daá in der AUTOEXEC.BAT die BLASTER-Variable definiert
+ist. Diese Variable wird beim Installieren der Ihrer Soundkarte beigelegten
+Treibersoftware eingefgt. Sollte ein solcher Eintrag nicht vorhanden sein,
+installieren Sie die Treibersoftware Ihrer Soundkarte neu.
+
+Weiters empfehlen wir Ihnen, den "CT-VOICE.DRV" Treiber Ihrer
+Soundkartensoftware in das BURN-Directory zu kopieren.
+
+ACHTUNG: Diese spezielle Version von BURNTIME enth„lt keinen Kopierschutz.
+Sollten Sie im Verlauf des Spiels an eine Kopierschutzabfrage gelangen,
+geben Sie beliebige Buchstaben ein und drcken Sie <ENTER>. Die
+Kopierschutzabfrage wird in jedem Fall einfach ignoriert.
+
+Nachdem Sie das Spiel gestartet haben, erscheint ein Intro, daá auf die
+Geschehnisse im Spiel einstimmt. Diesen Vorspann k”nnen Sie aber jederzeit
+durch Bet„tigen einer beliebigen Maustaste abbrechen. Nach dem Intro
+erscheint der Startbildschirm. Hier k”nnen Sie sich einen
+Namen geben, ein Portr„t ausw„hlen, den Schwierigkeitsgrad einstellen und
+alte Spielst„nde laden.
+Spielernamen
+
+Durch Anklicken des Namensfeldes wird ein Spieler aktiviert. Sie k”nnen nun
+Ihrer Spielfigur einen passenden Namen geben. Das sonst bliche Best„tigen
+der Eingabe mit <ENTER> ist nicht n”tig. Der eingegebene Namen wird
+automatisch bei Spielstart bernommen.
+
+Spielerportr„t
+
+Das Anklicken des Namensfeldes ”ffnet auch das zugeh”rige Portr„tfenster.
+W„hlen Sie nun ein Portr„t nach Ihrem Geschmack fr Ihre Spielfigur. Durch
+Anklicken des Portr„ts mit der linken Maustaste bl„ttern Sie weiter, mit der
+rechten Maustaste zurck. Es stehen insgesamt sechs verschiedene Portr„ts
+zur Verfgung. Die Auswahl eines bestimmten Portr„ts hat keinen Einfluá auf
+das Spielgeschehen.
+
+Spielerfarben
+
+Durch Anklicken einer Fahne werden die beiden Fahnen vertauscht. Sie
+markieren die Farben eines Spielers. Sollte Spieler 1 also eine heftige
+Abneigung gegen Rot haben, so kann er sich damit die beruhigende Farbe Grn
+auf seine Fahne heften. Die Auswahl der Fahnenfarbe hat keinen Einfluá auf
+das Spielgeschehen.
+
+Schwierigkeitsgrad
+
+Sie haben die Wahl zwischen drei verschiedenen Schwierigkeitsgraden. Je
+h”her der eingestellte Schwierigkeitsgrad, desto ausgefuchster reagieren die
+Gegenspieler, desto h„rter wird der Kampf ums šberleben. Auch die Verteilung
+wichtiger Gegenst„nde wird durch die Spielstufe beeinfluát. So ist in
+h”heren Spielstufen mancher Gegenstand um einiges schwerer aufzutreiben als
+in einer leichten Spielstufe.
+Selbstverst„ndlich k”nnen Sie hier nicht einstellen, wie gut ein eventueller
+menschlicher Kontrahent spielt.
+
+Altes Spiel laden
+
+Selbstverst„ndlich haben Sie auch die M”glichkeit, einen alten Spielstand zu
+laden. Durch Anklicken des Laden-Feldes gelangen Sie in das Spieloptionen-
+Men. Von dort aus k”nnen Sie einen Spielstand laden.
+
+Spiel starten
+
+Nachdem die wenigen Vorbereitungen abgeschlossen sind, k”nnen Sie beherzt
+ins Geschehen einsteigen. Viel Spaá und Erfolg beim Kampf um šberleben und
+Macht!
+
+Mauszeiger informiert
+
+Mit Hilfe des Mauszeigers erhalten Sie immer Informationen ber den darunter
+befindlichen Gegenstand. Bei Orten und Gegenst„nden wird der dazugeh”rende
+Name ber dem Mauszeiger eingeblendet. Bei Personen gibt die Farbe des
+Namens Auskunft ber die Zugeh”rigkeit (weiá=neutral).
+
+Die Hauptkarte
+
+Das zentrale Steuerelement von Burntime ist die Hauptkarte. Hier
+kontrollieren Sie die fr Ihren Spielzug noch verbleibende Zeit, die fr
+Reisen ben”tigte Nahrungs- und Flssigkeitsmenge, den Standort der Gegner,
+die Lage der einzelnen Orte und den momentanen Aufenthaltsort Ihrer Truppe.
+Nur in der Hauptkarte k”nnen Sie Reisen antreten und Orte kontrollieren, in
+denen Sie sich nicht pers”nlich aufhalten. Weiters k”nnen Sie hier Ihren
+Spielzug beenden und die Gegenspieler vor Ablauf der Zeit zum Zuge kommen
+lassen.
+
+
+Indem Sie den Mauszeiger an den Rand der Hauptkarte bewegen, k”nnen Sie den
+sichtbaren Kartenausschnitt des gesamten Spielfeldes verschieben.
+
+Verbleibende Zeit pro Spielzug
+
+Burntime ist in Spielzge geordnet. Jeder Spieler hat fnf Minuten Zeit, um
+seine gewnschten Aktionen auszufhren. Die verbleibende Zeit ersieht man am
+Zeitbalken in der Hauptkarte.
+
+Standorte der Spieler
+
+Das sechseckige Spielersymbol zeigt den momentanen Standort des
+dazugeh”renden Spielers. Sie werden durch die Spielerfarben und Nummern
+unterschieden.
+
+Siedlungen
+
+In der unwirtlichen Welt von Burntime gibt es die unterschiedlichsten Orte.
+Die Palette reicht von verfallenen Industriest„dten bis zu Zeltlagern.
+
+
+
+Von Spielern kontrollierte Orte
+
+Weht ber einem Ort eine Fahne, so wird er vom dazugeh”renden Spieler
+kontrolliert. Orte ohne Fahne k”nnen jederzeit betreten und in das eigene
+Imperium einverleibt werden.
+
+Spielerstatus
+
+Hier sehen Sie den Namen und Beruf des Spielers, der im Moment gerade am Zug
+ist. Fr Menschen, die sich keine Namen merken k”nnen oder wollen, ist hier
+ein Portr„t des sich an der Reihe befindenden Spielers eingeblendet. Hier
+ersehen Sie auf einen Blick, wieviele Spieltage bereits verstrichen sind,
+und wie es um Ihre Vitalit„t bestellt ist. Der Balken zeigt nur die
+Vitalit„t des Chefs.
+
+Das Pop-up-Men
+
+In der Hauptkarte und in den Ortsszenarien wird durch Bet„tigen der rechten
+Maustaste ein Pop-up-Men aktiviert. Mit Hilfe dieses Mens k”nnen Sie
+verschiedene Aktionen ausfhren, die sp„ter noch genauer erl„utert werden.
+Klicken Sie auf einen beliebigen Punkt auáerhalb des Mens, um es wieder
+verschwinden zu lassen.
+Reisen von Ort zu Ort
+
+Sie k”nnen nur in der Hauptkarte von einem Ort zum anderen reisen.
+Aktivieren Sie dazu das Pop-up-Men und w„hlen Sie den Punkt "Reisen". Neben
+dem Mauszeiger erscheint nun das Reisesymbol, Sie befinden sich fortan im
+Reisemodus.
+Rote Linien zeigen die momentan m”glichen Reiserouten an. Nun klicken Sie
+mit dem Mauszeiger auf den gewnschten Ort und die Reise kann beginnen. Das
+Spielersymbol wandert nun auf der roten Linie. Der Antritt einer Reise
+beendet den Spielzug.
+
+Informationen ber Siedlungen
+
+W„hlen Sie den Menpunkt "Info" und klicken Sie auf einen Ort, um
+Informationen ber diesen zu erhalten. Sie erhalten Auskunft ber die Anzahl
+der stationierten M„nner, den Lagerbestand, Verseuchungsgrad und
+Nahrungsausbeute.
+
+Name der Siedlung
+
+Im Namensfeld sehen Sie den Namen der betreffenden Siedlung.
+
+Verseuchungsgrad
+
+Einige Orte sind mehr oder weniger stark verseucht. Bevor Sie sich in einen
+Ort begeben, sollten Sie unbedingt den Verseuchungsgrad kontrollieren. Sonst
+ist das Spiel fr Sie vielleicht bereits nach wenigen Minuten
+Aufenthaltsdauer zu Ende.
+
+Anzahl der Truppe
+
+Beherrscht man mehrere Orte, so wird es schwer, den šberblick ber den
+Mannschaftsstand zu halten. Hier k”nnen Sie auf einen Blick ersehen wieviele
+Techniker, Soldaten und rzte in einem Ort auf Ihr Kommando h”ren.
+
+Lagerbestand
+
+Sollten sich in diesem Ort von Ihnen gelagerte Gegenst„nde befinden, so
+erhalten Sie hier Auskunft ber Art und Anzahl. Mit Hilfe der Pfeilfelder
+k”nnen Sie in der Gegenstandsanzeige vorw„rts und rckw„rts bl„ttern.
+
+Nahrungs- und Wasservorkommen
+
+Um berleben zu k”nnen, mssen Sie st„ndig Nahrung und Trinken beschaffen.
+Mit den n”tigen Ausrstungsgegenst„nden erledigen dies Ihre M„nner in den
+beherrschten Orten. Sie stellen hier ein, welche Nahrung produziert werden
+soll. Durch Klicken auf das jeweilige Bildsymbol schalten Sie weiter zum
+n„chsten Nahrungsmittel. Fr bestimmte Nahrungsmittel werden eigene
+Ausrstungsgegenst„nde ben”tigt.
+
+Handlungsmodus
+Mittels Pop-up-Men versetzen Sie die Spielfiguren in einen bestimmten
+Handlungsmodus. Dieser bleibt solange aktiv, bis Sie einen anderen Modus
+ausw„hlen. Das Symbol fr den aktuellen Modus erscheint immer neben dem
+Mauszeiger zur Erinnerung.
+
+Info-Modus (Hauptkarte)
+
+Dieser Modus ist nur in der Hauptkarte verfgbar. Klicken Sie auf einen
+beliebigen Ort, so erscheint die zugeh”rige Informationstafel.
+
+Reisen-Modus (Hauptkarte)
+
+Ebenfalls nur in der Hauptkarte verfgbar. Klicken Sie auf einen Ort, so
+reisen Sie zu diesem.
+
+Sprechen-Modus (Ortsszenarien)
+
+Nur in Ortsszenarien. Klicken Sie auf eine Person, um mit ihr zu sprechen.
+
+K„mpfen-Modus (Ortsszenarien)
+
+Nur in Ortsszenarien. Klicken Sie auf eine Person oder ein Tier, so greifen
+Sie an.
+
+Inventory
+
+Im Inventory kontrollieren Sie die eigene Konstitution und die der
+Mannschaft, sowie die mitgefhrten Ausrstungsgegenst„nde. Im Textteil
+erhalten Sie Auskunft ber Beruf, Erfahrung, Vitalit„t und den
+S„ttigungsgrad der betreffenden Person. Der Nahrungs- und Wasservorrat wird
+immer in Tagesrationen angegeben. Sie erhalten also Auskunft, wieviele Tage
+die Person durchh„lt, ohne Nahrungs- oder Flssigkeitsaufnahme. Sinkt der
+Wert auf Null, so sinkt die Vitalit„t. Ist die Vitalit„t bei Null angelangt,
+ntzt dieser bedauernswerten Person auch der beste Arzt nichts mehr. Ihre
+Mannschaft hat dann einen Mann weniger. Es lohnt sich also, von Zeit zu Zeit
+die Vitalit„t aller Mannschaftsmitglieder zu kontrollieren.
+
+Mit den kleinen Zahlentafeln aktivieren Sie die Inventories der anwesenden
+Personen. Es stehen immer alle bei der Gruppe des Chefs anwesenden Personen
+zur Verfgung. Allerdings mssen sie im engen Umkreis um die aktive Figur
+stehen.
+
+Jede Person kann maximal sechs Ausrstungsgegenst„nde mit sich fhren. Soll
+bei bereits vollem Inventory ein neuer Gegenstand aufgenommen werden, so muá
+zuerst ein alter Gegenstand abgelegt werden. Klicken Sie einen Gegenstand
+mit der linken Maustaste an, so wird er abgelegt. Er erscheint im rechten
+groáen Feld des Inventories. Der Gegenstand liegt am Boden vor den Fáen der
+betreffenden Person. Von dort k”nnen Sie ihn auf dieselbe Weise wieder
+aufnehmen. So k”nnen Sie auch Gegenst„nde zwischen verschiedenen
+Gruppenmitgliledern austauschen.
+
+Klicken Sie einen Gegenstand mit der rechten Maustaste an, so fhren Sie ihn
+seiner Bestimmung zu. Ist die aktuelle Person ein Techniker, so gibt er ber
+mit der rechten Maustaste angeklickten Gegenst„nde Auskunft, was er fr die
+Fertigstellung ben”tigen wrde.
+
+Optionen
+
+Zum Options-Men gelangt man von der Hauptkarte aus mittels Pop-up-Men.
+Bewegen Sie den Mauszeiger auf die rechte H„lfte des Fernsehers, so ”ffnet
+sich die Bedienungsklappe und gibt die Bedienelemente frei. Sie haben die
+M”glichkeit, Spielst„nde zu laden oder zu speichern, Musik ein- und
+ausschalten, oder auch das Spiel zu beenden.
+
+Zur Karte: Anw„hlen dieses Menpunktes fhrt zurck zur Hauptkarte. Alle
+Einstellungen werden bernommen.
+
+Musik: Sie k”nnen die Musik im Spiel ein- oder auch ausschalten.
+
+Neustart: Sie beginnen ein neues Spiel
+
+Speed: Fr sehr schnelle Rechner l„át sich die Animationsgeschwindigkeit
+verz”gern (0=keine Verz”gerung, 3 = maximale Verz”gerung)
+
+Zum DOS: Sie kehren zum DOS zurck - Spielende.
+
+Laden/Speichern/L”schen: Bis zu acht Spielst„nde k”nnen gespeichert werden.
+Zum Speichern w„hlen Sie einen freien Platz aus, geben den Namen ein und
+klicken Speichern an. Alte Spielst„nde k”nnen einfach berschrieben oder
+auch eigens gel”scht werden.
+
+Hauptst„dte
+
+In den fnf Hauptst„dten kann nicht gek„mpft werden, und sie k”nnen auch
+nicht erobert werden. Gelagerte Gegenst„nde sind dort fr alle frei
+zug„nglich. In den Hauptst„dten finden sich rzte, Bars, Restaurants und
+auch Handelssttzpunkte.
+
+Essen und Trinken
+
+Klicken Sie ein Lebensmittel oder Wasser mit der rechten Maustaste an, so
+wird es konsumiert. Dabei wird es immer gerecht auf alle in der Gruppe
+anwesenden Personen aufgeteilt. Was also fr eine Person ausreichend
+erscheinen mag, ist fr mehrere Personen nur ein Tropfen auf den heiáen
+Stein. Wollen Sie nur eine Person verk”stigen, so mssen Sie sie kurzzeitig
+von der Gruppe absondern, um nicht teilen zu mssen. Achten Sie darauf,
+nicht mehr Personen anzuheuern, als Sie auf Dauer verk”stigen k”nnen.
+
+N„hrwert von Lebensmitteln (Tagesrationen)
+Maden -3 TR, Ratten - 5 TR, Schlangen - 7 TR, Fleisch - 9 TR
+
+Fassungsverm”gen von Wasserbeh„ltern
+Flasche - 2 TR, Feldflasche - 3 TR, Wassersack - 5 TR
+Fortbewegung in Ortsszenarien
+
+Um eine Person oder eine ganze Gruppe in Ortsszenarien zu einem bestimmten
+Punkt zu bewegen, klicken Sie einfach auf diesen Punkt. Die Person oder die
+Gruppe wird nun versuchen, auf dem krzesten Weg dorthin zu gelangen.
+Manchmal kann es vorkommen, daá sich eine Person in eine Sackgasse verl„uft.
+Helfen Sie Ihr, indem Sie krzere Wegetappen einteilen.
+
+Aktivieren von Spielfiguren
+
+Die momentan aktive Person erkennen Sie an der blinkenden Umrandung. Bei
+einer Gruppe ist dies immer der Chef. Wollen Sie mit einer Einzelperson
+agieren, so mssen Sie diese zuerst aktivieren. Klicken Sie dazu die Person
+einfach an. Bei bereits aktiven Personen ”ffnet sich durch Anklicken das
+Inventory.
+
+Kontaktaufnahme mit Personen
+
+Klicken Sie auf eine fremde Spielfigur, so starten Sie damit eine
+Kontaktaufnahme. Abh„ngig davon, welchen Handlungsmodus Sie eingestellt
+haben, k”nnen Sie nun mit der Person reden oder k„mpfen. Ist die gewnschte
+Person zu weit weg, so beginnt die aktive Figur erst zu dieser Person
+hinzugehen. Die Kontaktaufnahme geht immer von der aktiven Figur aus. Durch
+Reden mit einer fremden Person k”nnen Sie diese anheuern, Informationen
+bekommen oder mit ihr handeln.
+
+Lagerung von Gegenst„nden
+
+Da Sie nur eine begrenzte Anzahl von Gegenst„nden mit sich fhren k”nnen,
+werden Sie so manchen Gegenstand irgendwo zwischenlagern mssen. Am besten
+eignen sich dafr H„user, H”hlen oder Zelte. Durch Betreten eines solchen
+Lagers gelangen Sie in das Lager-Inventory. Die Bedienung ist identisch mit
+dem Personen-Inventory. In Sttzpunkten produzierte Gegenst„nde werden
+automatisch in Lagern abgelegt.
+
+Wasserstellen
+
+Betreten Sie mit einer Person oder einer Gruppe eine Wasserstelle, so
+trinken die Personen automatisch. Der Balken rechts unten im Bild gibt
+Auskunft ber die zur Verfgung stehende Wassermenge in Tagesrationen. Die
+Menge des Wassers kann variieren, Quellen k”nnen versiegen. Abgestellte
+Gef„áe werden wieder aufgefllt, je nach Wassermenge geschieht dies mehr
+oder weniger schnell. Mit der rechten Maustaste angeklickte Gef„áe werden
+ebenfalls versucht aufzufllen.
+K„mpfen
+
+Wollen Sie eine fremde Person oder auch ein Tier angreifen, so wechseln Sie
+in den Kampfmodus. Gek„mpft wird mit der aktiven Figur oder mit der aktiven
+Gruppe. Waffen werden im Inventory durch Anklicken mit der rechten Maustaste
+als Kampfwaffe aktiviert. Durch Anklicken bestimmen Sie die Figur, welche
+angegriffen werden soll. K„mpfe gegen Computergegner laufen in Echtzeit ab.
+Zwei menschliche Gegenspieler k„mpfen gegeneinander Zug fr Zug in fnf
+Runden. Treffer erkennen Sie an einem aufblinkenden weiáen Fadenkreis ber
+der betreffenden Figur.
+
+Tauschen von Gegenst„nden
+
+In der Welt von Burntime hat Geld seinen Wert verloren. Hier regiert der
+Tauschhandel die Welt. Fr einen gewnschten Gegenstand mssen Sie einen -
+je nach Verhandlungsgeschick mehr oder weniger wertvollen - Gegenstand zum
+Tausch anbieten.
+
+Tauschen k”nnen Sie mit Mitspielern oder H„ndlern. Gegenst„nde oder
+Lebensmittel haben keinen fixen Wert, Angebot und Nachfrage bestimmen den
+aktuellen Tauschwert. Befindet sich der Mauszeiger in der linken H„lfte des
+Bildschirms, so erscheint das Inventory des Tauschpartners.
+Klickt man nun einen Gegenstand aus dem eigenen Inventory an, so erscheint
+dieser in der oberen Tauschtafel. Im Inventory wird er nun gerastert
+dargestellt, als Zeichen, daá er zum Tausch angeboten wurde. Genauso
+verf„hrt man mit Gegenst„nden, die man vom Tauschpartner haben m”chte.
+Anklicken im Inventory des Tauschpartners bringt sie in die Tauschtafel. Mit
+erneuten Anklicken des Gegenstands ziehen Sie ihn wieder zurck.
+
+Sind Sie mit dem Tausch einverstanden, so klicken Sie "Tausch OK" an. In der
+eigenen Tauschtafel wechselt das Tauschl„mpchen auf grn. Ist auch das
+Tauschl„mpchen des Gegenbers grn, so ist der Tausch best„tigt. Es kann
+durchaus vorkommen, daá Sie fr einen begehrten Gegenstand mehrere weniger
+begehrte Gegenst„nde hergeben mssen. Andrerseits k”nnen auch Sie Notlagen
+einzelner Personen sehr gezielt ausnutzen.
+
+Klicken  Sie einen Gegenstand mit der rechten Maustaste an, so wird er neben
+der Inventory-Tafel abgelegt. Bei Verlassen der Tauschszene befinden sich
+diese am Boden. Durch erneutes Anklicken k”nnen sie aber wieder aufgenommen
+werden.
+
+K„mpfer
+
+K„mpfer sind die M„nner frs Grobe. Sie arbeiten mit den Muskeln, nicht mit
+dem Kopf. Je nach Erfahrungswert sind sie mehr oder weniger gut fr
+Bewachungsaufgaben oder Eroberungszge geeignet. Mit den bloáen F„usten
+allein kann aber auch der beste K„mpfer wenig ausrichten. Achten Sie daher
+darauf, daá Ihre K„mpfer immer mit Waffen ausgerstet sind. Die gewnschte
+Waffe muá aktiviert sein, sonst ist sie nutzlos. Das geschieht im Inventory
+durch Anklicken mit der rechten Maustaste. Ein roter Rahmen markiert die
+aktive Waffe.
+
+Bei Gewehren achten Sie auf die begrenzte Munitionsanzahl. Ist die Munition
+alle, so muá mit neuer Munition nachgeladen werden (Munition mit rechter
+Maustaste anklicken).
+
+Techniker
+
+Techniker sind Kopfarbeiter. Sie basteln aus wertlosem Schrott oft noch die
+ntzlichste Dinge. Fr K„mpfe sollte man sie nur im Notfall heranziehen. Hat
+ein Techniker einen interessanten Gegenstand in seinem Inventory, so k”nnen
+Sie diesen Gegenstand mit der rechten Maustaste anklicken und der Techniker
+wird Ihnen Auskunft geben, was er mit diesem Gegenstand anfangen k”nnte. Er
+sagt Ihnen auch, was er eventuell zur Fertigstellung eines bestimmten
+Gegenstandes ben”tigen wrde.
+
+rzte
+
+Leichte Verletzungen heilen von selbst. Sinkt die Vitalit„t aber unter 70 %,
+so muá man einen Arzt in der Truppe haben, um geheilt zu werden. Leichte
+Verletzungen heilen aber auch mit einem Arzt in der Truppe schneller. Ist
+die Vitalit„t unter 50 % gesunken, so hilft nur noch ein teurer station„rer
+Arzt in einer der Hauptst„dte. Diesem mssen Sie Lebensmittel anbieten. Sind
+es genug, so wird die vorderste Figur  im Inventory geheilt.
+
+H„ndler
+
+Mit H„ndlern k”nnen Sie mehr oder weniger gute Gesch„fte machen, je nach
+Ihrem Verhandlungsgeschick. Die Preise der Waren richten sich dabei nach
+Angebot und Nachfrage. Fr dringend ben”tigte und seltene Waren werden Sie
+sehr viel bezahlen mssen. H„ndler findet man auch in den Handelsh„usern in
+den Hauptst„dten. Sie sind schwer bewaffnet und sollten deshalb besser nicht
+angegriffen werden.
+
+
+
+
+
+                                 DAS SPIEL
+
+Der Abenteurer John Wood hat sich auf die Reise durch die Welt von Burntime
+begeben. Wir haben uns gedacht, was k”nnte wohl fr einen Anf„nger
+hilfreicher sein, als die Aufzeichnungen eines Veteranen. Es war allerdings
+nicht einfach, an den Erfahrungsschatz dieses altgedienten Recken
+heranzukommen. Keiner gibt gerne seine Geheimnisse preis. Kann doch so
+manche, vielleicht unter bittersten Umst„nden gemachte Erfahrung in nicht
+wenigen Situationen ein beraus entscheidender Vorsprung gegenber einem
+sonst vielleicht allzu berm„chtigen Gegner sein.
+
+Erst als wir Herrn Wood auf einige „uáerst dunkle Flecken in seiner
+Vergangenheit ansprachen - und wir wollen hier nicht verraten, unter welch
+kuriosen Umst„nden uns dieselbigen zu Ohren kamen -, war er, wenn auch
+z„hneknirschend und uns still verfluchend, bereit, wenigstens die ersten
+Seiten seiner Aufzeichnungen uns zur Ver”ffentlichung zu berlassen.
+
+Wir haben diese Aufzeichnungen fr den Spieler von Burntime mit Anmerkungen
+versehen, die es erleichtern sollen, mit dem Regelwerk von Burntime
+innerhalb krzester Zeit vertraut zu werden.
+
+
+Was besitze ich?
+
+Bevor ich aufbreche, um die Welt zu erforschen und zu erobern, sollte ich
+vielleicht einmal nachsehen, welche Ausrstungsgegenst„nde ich bei mir
+trage. Denn ich weiá bereits, daá dies zu Spielbeginn immer variiert. Ein
+Blick in mein Inventory zeigt mir, daá ich ein Messer, eine Ratte, ein Stck
+Fleisch und einen gefllten Wassersack mein Eigentum nennen kann. Das Messer
+kann mir in dieser gef„hrlichen Welt bestimmt noch sehr ntzlich sein.
+
+Anhand der N„hrwerte von Lebensmitteln und der Fassungsverm”gen von
+Wasserbeh„ltern kann ich mir sehr leicht ausrechnen, wie weit ich ohne
+Bedenken reisen kann. Ich bin da sehr vorsichtig, denn in der Wste elend zu
+verdursten ist sicher kein Spaá. Ich sehe auch, daá ich neun Tage ohne Essen
+und fnf Tage ohne Trinken auskommen kann.
+
+Die erste Reise
+
+Vier Reisewege stehen mir offen. Sie sind auf der Hauptkarte durch rote
+Linien markiert. Da ich keinen der vier Orte kenne, muá ich mich auf meinen
+Instinkt verlassen. Auch eine m”gliche Weiterreise zu weiter entfernten
+Orten muá ich bei der Auswahl des Reiseziels bercksichtigen.
+
+Ich sehe mir also die Hauptkarte genauer an, und beschlieáe, daá der im
+Osten gelegene Ort Sana fr mich wohl das richtige Reiseziel sein drfte. Da
+die Reise einige Tage dauert, muá ich mich in Geduld fassen, bis die Reihe
+wieder an mir ist.
+
+Eine leere Flasche
+
+Endlich bin ich in Sana eingetroffen. Die Reise war hart und beschwerlich,
+aber ich bin voller Tatendrang. Ich sehe mich ein wenig in der Gegend um und
+entdecke mehrere H„user. Natrlich durchsuche ich sie, vielleicht entdecke
+ich einige brauchbare Dinge. Gleich im ersten Haus liegt eine leere Flasche,
+die mir als Wasserbeh„lter gute Dienste leisten kann. Ich beeile mich mit
+dem Durchsuchen, denn soviel weiá ich bereits: Wer zu sp„t kommt, den
+bestraft das Leben. Wo habe ich das nur geh”rt?
+
+Der Soldat
+
+Als ich das Haus wieder verlasse, kommt ein Mann auf mich zu. Da er
+anscheinend nichts B”ses im Sinn hat, spreche ich ihn an. Nach Neuigkeiten
+befragt, erz„hlt er mir von seinem kranken Bein. Trotzdem frage ich ihn, ob
+er einen Job will. Fr eine Ratte als Lohn bietet er sich als Weggef„hrte
+an. Ratten sind kostbar, also frage ich vorsichtshalber, welchen Beruf er
+hat. Da er angibt, ein guter K„mpfer zu sein, und er mir nicht unsympathisch
+ist, nehme ich ihn als Soldat auf. Er nennt sich Hias, das drfte aber kaum
+sein richtiger Name sein.
+
+Nun bin ich nicht mehr allein. Allerdings muá ich jetzt auch fr meinen
+Begleiter sorgen. Was aber sollte ich alleine schon ausrichten in dieser
+Welt.
+
+Folge mir, Gefolgsmann
+
+Ich will die Gegend weiter erforschen, und mache mich auf den Weg zu den
+n„chsten H„usern. Als ich mich aber umblicke, sehe ich meinen Begleiter noch
+immer ratlos beim Haus stehen, anstatt mir zu folgen. Ich rufe ihn und
+befehle ihm, bei mir zu bleiben. Es ist wohl gar nicht so einfach Chef zu
+sein. Ich muá in Zukunft darauf achten, meinen Leuten immer eindeutige
+Befehle zu geben. Eigenst„ndiges Handeln darf ich wohl nicht erwarten. Wer
+weiá auch, was die Leute dann tun wrden. Wenn ich also jemanden mit einem
+Spezialauftrag von der Gruppe weggeschickt habe, so muá ich ihn wieder
+zurckpfeifen, wenn er wieder mit der Gruppe mitgehen soll. Ich werde mich
+daran gew”hnen mssen, fr meine Leute mitzudenken.
+
+
+Der Brunnen vor dem Tore
+
+Zwischen einigen H„usern sehe ich etwas, daá ein Brunnen sein k”nnte. Und
+tats„chlich, es ist ein Brunnen mit frischem Wasser. Wir l”schen unseren
+Durst und ich flle die Flasche auf. Da Hias noch keinen Wasserbeh„lter hat,
+gebe ich ihm die Flasche.
+
+Austauschen von Gegenst„nden
+
+Ich stelle die Flasche einfach neben den Brunnen. Dann hole ich das
+Inventory von Hias in den Vordergrund. Jetzt kann Hias die Flasche ganz
+normal aufnehmen. Das funktioniert aber nur so einfach, wenn beide Personen
+in derselben Gruppe sind und auch r„umlich nicht zu weit voneinander
+entfernt sind.
+
+Wer suchet, der findet
+
+Nun ist es Zeit, die weitere Umgebung genau zu durchforsten. Hias und ich
+streifen also zwischen den Felsen und Str„uchern umher wie zwei Sprhunde.
+Und wirklich hat unsere Suche Erfolg. Neben einem Felsen finde ich ein
+Messer. Da ich bereits ein Messer habe, gebe ich es Hias. Jetzt ist auch er
+endlich bewaffnet. Was ntzt mir auch ein Soldat ohne Waffe?
+Nicht weit davon finden wir noch eine Schlange. Auch diesen Leckerbissen
+nehmen wir mit.
+
+Der erste Sttzpunkt
+
+Der Ort Sana beginnt mir zu gefallen. Ich denke, daá er als Sttzpunkt sehr
+hilfreich sein k”nnte. Vor allem der Brunnen hat es mir angetan. Ich
+aktiviere also Hias und befehle ihm, beim Lager zu bleiben. Jetzt bin ich
+stolzer Herrscher ber einen Ort. Sana ist nun von mir besetzt.
+
+Wissen ist Macht
+
+Einige Informationen ber meinen Sttzpunkt w„ren nun ganz hilfreich. Dazu
+w„hle ich "Info" aus dem Men. Auf der Info-Tafel sehe ich alle wichtigen
+Informationen ber meinen Sttzpunkt. Hias scheint als einziges Personal
+auf. Mit seinem Messer kann er zwei Tagesrationen Maden aus den Felsen
+kratzen. Zum Fangen von Ratten oder Schlangen fehlt ihm die Ausrstung.
+Damit Hias auch das Richtige tut, muá ich bei Vorkommen das gewnschte
+Nahrungsmittel einstellen. In diesem Fall sind das klarerweise Maden. Der
+Brunnen gibt reichlich Wasser. Es wrde fr fnf Leute ausreichen.
+
+
+Hinweg von diesem Ort
+
+Es ist Zeit weiterzureisen. Dazu muá ich an den Ortsrand gehen, um die
+Hauptkarte wieder aufrufen zu k”nnen.
+
+Auf zu neuen Zielen
+
+Auf der Hauptkarte erkenne ich meinen Sttzpunkt durch eine Fahne in meiner
+Farbe. Ich beschlieáe, noch in der N„he der groáen Stadt zu bleiben. Also
+reise ich nach B„rwalde, einem Ort inmitten eines toten Waldes.
+
+Gerstet fr den Kampf
+
+In B„rwalde angelangt, bin ich fasziniert von den gespenstisch anmutenden
+Baumresten. Ein streunender Hund ntzt meine Unachtsamkeit und greift mich
+an. Glcklicherweise l„át er aber wieder ab von mir. Erst jetzt sehe ich,
+daá ich bisher groáes Glck hatte. V”llig sorglos rannte ich durch die
+Gegend, ohne meine Waffe aktiviert zu haben. Das muá ich schnellstens
+nachholen, sonst blht mir sicher ein b”ses Ende. Ich ”ffne also mein
+Inventory und nehme mein Messer zur Hand. Nachdem ich auch noch den
+Kampfmodus eingeschaltet habe, bin ich gerstet.
+
+Und das keinen Augenblick zu frh, denn schon greift wieder ein Hund an.
+Diesmal kann ich mich aber wehren. Er versucht zu fliehen, aber ich setzte
+ihn nach. Ein erbitterter Kampf entbrennt. Ich muá etliche Bisse einstecken,
+doch schlieálich kann ich das Tier besiegen. Vor mir liegt nun eine leckere
+Fleischkeule, die ich sofort und mit Freuden in meinem Rucksack verstaue. Da
+ich verletzt bin, versuche ich nun, weiteren K„mpfen aus dem Weg zu gehen.
+Vielleicht finde ich einen Arzt, der meine Wunden heilen kann.
+
+Der Techniker
+
+Nachdem ich in einem der H„user Wasser gefunden und meinen Durst gel”scht
+habe, treffe ich wieder einen Mann. Er erz„hlt mir daá er Techniker sei. Fr
+eine Schlange schlieát er sich mir an. Ich bin sicher, daá mir Lois -
+anscheinend hat hier jeder einen Decknamen - noch eine groáe Hilfe sein
+wird. Leider habe ich keine Waffe fr Lois. Auáerdem ist er Techniker und
+kein K„mpfer. So widerstehe ich der Versuchung, B„rwalde als Sttzpunkt zu
+besetzen. Wir kontrollieren unsere Ausrstung und reisen in die Stadt Neu
+Sandez.
+
+Nichts ist umsonst
+
+In der Stadt ist einiges los. Wir treffen auf einen H„ndler, der uns seine
+Waren anbietet. Ein Wassersack wrde mich interessieren. Ich biete ihm eine
+Ratte dafr, doch das ist ihm zu wenig. Z„hneknirschend lege ich noch eine
+Schlange darauf. Hoffentlich war das auch ein gutes Gesch„ft. Ich merke
+schon, daá man bei den H„ndlern schwer auf der Hut sein muá. Sie versuchen
+sicher Notlagen auszuntzen. Hoffentlich komme ich nie in die miáliche Lage,
+fr einen dringend ben”tigten Ausrstungsgegenstand mein halbes Hab und Gut
+opfern zu mssen. Auch in den Handelsh„usern kann man nicht mit
+Groázgigkeit rechnen.
+
+Beim Quacksalber
+
+In einem Geb„ude treffe ich einen Arzt. Er w„re bereit, meine Wunden zu
+heilen. Allerdings m”chte er meinen ganzen Fleischvorrat dafr. Ich vertraue
+auf meine robuste Natur und lehne ab. Vielleicht sollte ich einen Arzt fr
+meine Truppe anheuern. Man hat mir gesagt, daá gr”áere Verletzungen nur mehr
+mit einem Arzt in der Truppe heilen. Bei schweren Verletzungen kann
+berhaupt nur mehr ein station„rer Arzt in einer Stadt helfen.
+
+In der Kneipe
+
+Aus einem anderen Geb„ude h”re ich lautes Stimmengewirr. Lois und ich
+betreten das Haus und finden uns in einer Kneipe wieder. Von einigen
+zwielichtigen Typen erhalte ich Informationen, mit denen ich aber nicht viel
+anzufangen weiá. Beim Barkeeper m”chte ich Wasser eintauschen, es ist mir
+aber zu teuer. Der Duft von Gebratenem lockt uns in das Restaurant. Wie zum
+Hohn prangen in dem dreckigen Lokal fnf Sterne an der Wand. Die saftigen
+Preise treiben uns rasch in die Flucht.
+
+Wer bastelt mit
+
+Beim Durchst”bern mehrerer H„user finden wir Batterien, Elektronikschrott,
+ein kaputtes Display, sowie einen kaputten Minendetektor. Ich frage meinen
+Techniker, was er mit dem kaputten Minendetektor. Er erkl„rt mir, daá er ihn
+mit den gefundenen Teilen wieder funktionstchtig machen k”nnte. Da er mit
+den  Gegenst„nden sonst nichts anzufangen wáte, gebe ich ihm den Auftrag
+fr die Reparatur. Ein Minendetektor kann mir sicher noch ntzlich sein.
+
+Der verstrahlte Ort
+
+In der Kneipe habe ich einige wunderliche Dinge ber einen Ort namens Nob
+Hill geh”rt. Auf der Hauptkarte sehe ich, daá dies der westliche Nachbarort
+von Neu Sandez ist. So entscheide ich mich fr eine Reise dorthin. In der
+Stadt gibt es ohnehin nichts mehr fr mich zu tun. In Nob Hill eingetroffen
+bef„llt mich ein ungutes Gefhl. Ein Blick auf die Infotafel zeigt, daá
+dieses Gefhl berechtigt war. Der Ort ist radioaktiv verseucht. Da wir keine
+Schutzanzge haben, reisen wir sofort wieder ab.
+
+Zurck in Sana
+
+Wir gehen nach Sana, unserem Sttzpunkt. Dort war Hias inzwischen sehr
+fleiáig. Er hat drei Tagesrationen Maden gesammelt und diese in einem der
+H„user versteckt. Ich habe nur mehr Platz fr eine Tagesration, gebe also
+Lois die anderen zwei Rationen. Wir finden eine Rattenfalle. Damit kann nun
+Hias auch Ratten fangen. Darum stelle ich auf der Info-Tafel unter Vorkommen
+Ratten ein. Nach einem letzten Plausch mit Hias begeben wir uns wieder nach
+Neu Sandez.
+
+Ein neuer Sttzpunkt
+
+Im Handelshaus erstehe ich eine Axt fr Lois. Er ist nun bewaffnet, und so
+ziehen wir nach B„rwalde. Ich kommandiere Lois zum Lager ab, und habe nun
+zwei Sttzpunkte. Langsam sollte ich zusehen, daá ich mehr Gefolgsleute
+bekomme. Zuerst muá ich aber sichergehen, daá ich sie auch ern„hren kann.
+Auch die weitere Umgebung will ich nun erforschen. Vor allem die H”hlen im
+Norden scheinen mir eine Reise wert. Aber auch eine andere groáe Stadt wrde
+mich locken. Doch das ist eine andere Geschichte.
+
+VIEL SPASS MIT BURNTIME !!!
+
+
+
+<End of file>
